@@ -17,7 +17,7 @@ description:
   \ Do you need financial flexibility? We offer a wide array of financing options to fit your specific needs! Code Labs Academy is designed for beginners, \n\
   \ and no experience is required to apply. We look forward to hearing from you!"
 display_name: Code Labs Academy
-founded_year: 2022
+founded_year: 2021
 meta-description: This bootcamp is suitable for new graduates, hard workers and everyone who is aiming for career growth or a career change.
 primary_email: contact@codelabsacademy.com
 programs:
@@ -83,7 +83,7 @@ programs:
       - git
       - html
       - css
-      - javaScript
+      - javascript
       - node-js
       - react
       - express
@@ -110,7 +110,7 @@ programs:
       - git
       - html
       - css
-      - javaScript
+      - javascript
       - node-js
       - react
       - express
