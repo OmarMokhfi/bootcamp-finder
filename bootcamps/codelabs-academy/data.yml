@@ -1,0 +1,262 @@
+description:
+  "Code Labs Academy is an international coding school that offers bootcamps paired with one-on-one career coaching. \n\
+  \ Whether your goal is to change your career, acquire new skills, or launch your own start-up, our courses \n\
+  \ ranging from Cybersecurity to Data Science, UI/UX Design, and Web Development will help you jump ahead! \n\
+  \ Our students are the heart of our school. From the moment an application is submitted, we strive for the best \n\
+  \ possible education and support for each student: \n
+  \ Unsure which Bootcamp would suit you the most? Just book a meeting with us! \n\
+  \ Are you already a part of CLA but feel a little behind? Just talk to our instructors during the weekly 1:1 sessions! \n\
+  \ Are you about to graduate? Or do you feel uncertain about your future? Talk to our Career Center specialist and optimize your resume, \n\
+  \ cover letter, or even LinkedIn profile with us! At CLA, you will never walk alone. \n\n
+  \ We prioritize small class sizes to give our students the best possible support. \n
+  \ Plus, the real-life projects from our experts prepare them for their new jobs after graduation. \n\
+  \ Did you know there is more to tech bootcamps than just coding? With Code Labs Academy, \n\
+  \ you will learn how to work as a team effectively and apply your learning in real-life situations. \n\n
+  \ At the end of your course, you will receive a Certificate of Achievement that you can add to your CV, mention in job applications, \n\
+  \ and post on LinkedIn. We believe that education should be accessible to all. That's why we always aim to provide fair tuition fees for our courses. \n\
+  \ Do you need financial flexibility? We offer a wide array of financing options to fit your specific needs! Code Labs Academy is designed for beginners, \n\
+  \ and no experience is required to apply. We look forward to hearing from you!"
+display_name: Code Labs Academy
+founded_year: 2022
+meta-description: This bootcamp is suitable for new graduates, hard workers and everyone who is aiming for career growth or a career change.
+primary_email: contact@codelabsacademy.com
+programs:
+  full-time-cybersecurity-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: full-time (40h/week)
+    cost_description: 2.299€
+    description: This program will enable you to launch your career in cybersecurity. You will study everything from the fundamentals, to the most modern techniques that businesses are looking for.
+    display_name: Cybersecurity
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - testing
+      - unix
+    tuition: 2299
+    tuition_units: EURO €
+  part-time-cybersecurity-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: part-time (20h/week)
+    cost_description: 2.299€
+    description: This program will enable you to launch your career in cybersecurity. You will study everything from the fundamentals, to the most modern techniques that businesses are looking for.
+    display_name: Cybersecurity
+    duration: 27
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - testing
+      - unix
+    tuition: 2299
+    tuition_units: EURO €
+  full-time-webdev-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: full-time (40h/week)
+    cost_description: 2.299€
+    description: The web development bootcamp is an immersive program that will make you job-ready full-stack web developers. Learn how to code meaningful applications from scratch using first-class technologies, such as HTML/CSS and NodeJS.
+    display_name: Web Development
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - git
+      - html
+      - css
+      - javaScript
+      - node-js
+      - react
+      - express
+      - rest
+    tuition: 2299
+    tuition_units: EURO €
+  part-time-webdev-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: part-time (20h/week)
+    cost_description: 2.299€
+    description: The web development bootcamp is an immersive program that will make you job-ready full-stack web developers. Learn how to code meaningful applications from scratch using first-class technologies, such as HTML/CSS and NodeJS.
+    display_name: Web Development
+    duration: 27
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - git
+      - html
+      - css
+      - javaScript
+      - node-js
+      - react
+      - express
+      - rest
+    tuition: 2299
+    tuition_units: EURO €
+  full-time-datascience-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: full-time (40h/week)
+    cost_description: 2.299€
+    description: Gain the skills you need to make sense of the wealth of data available in our world. Manipulate data using Python and SQL; code your ML algorithms on vision, natural language tasks, and much more!
+    display_name: Data Science
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - python
+      - sql
+      - git
+      - machine-learning
+      - data-science
+    tuition: 2299
+    tuition_units: EURO €
+  part-time-datascience-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: part-time (20h/week)
+    cost_description: 2.299€
+    description: Gain the skills you need to make sense of the wealth of data available in our world. Manipulate data using Python and SQL; code your ML algorithms on vision, natural language tasks, and much more!
+    display_name: Data Science
+    duration: 27
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - python
+      - sql
+      - git
+      - machine-learning
+      - data-science
+    tuition: 2299
+    tuition_units: EURO €
+  full-time-uiux-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: full-time (40h/week)
+    cost_description: 2.299€
+    description: Learn how to get started with User Experience and User Interface Design (UX/UI Design). Master the art of understanding your user, creating seamless experiences, designing high quality interfaces, and get ready to launch your career as a UX/UI designer! In this bootcamp, you will learn how to build a product, perfect its usability, and master designing and prototyping tools such as Figma, Figjam, Adobe XD, Sketch, and more!
+    display_name: UX/UI Design
+    duration: 12
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - wireframing
+      - web-design
+      - ux
+      - ui
+      - design
+      - prototyping
+    tuition: 2299
+    tuition_units: EURO €
+  part-time-uiux-bootcamp:
+    admissions: Application
+    cities:
+      - remote
+    commitment: part-time (20h/week)
+    cost_description: 2.299€
+    description: Learn how to get started with User Experience and User Interface Design (UX/UI Design). Master the art of understanding your user, creating seamless experiences, designing high quality interfaces, and get ready to launch your career as a UX/UI designer! In this bootcamp, you will learn how to build a product, perfect its usability, and master designing and prototyping tools such as Figma, Figjam, Adobe XD, Sketch, and more!
+    display_name: UX/UI Design
+    duration: 27
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - wireframing
+      - web-design
+      - ux
+      - ui
+      - design
+      - prototyping
+    tuition: 2299
+    tuition_units: EURO €
+  mini-sql-course:
+    admissions: Application
+    cities:
+      - remote
+    commitment: part-time (7h/week)
+    cost_description: 199€
+    description: Learn all SQL fundamentals in just four weeks. You will be able to put what you learn into practice right away. Master unique pro-tips, tricky problems, and lay hands on some interesting study cases.
+    display_name: Mini Course SQL
+    duration: 4
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - sql
+    tuition: 199
+    tuition_units: EURO €
+  mini-python-course:
+    admissions: Application
+    cities:
+      - remote
+    commitment: part-time (7h/week)
+    cost_description: 199€
+    description: Eager to learn about programming, but don't know where to start? Then this course is just what you are looking for! Our course is designed to help you become a confident Python programmer.
+    display_name: Mini Course Python
+    duration: 4
+    duration_units: weeks
+    financing: false
+    guarantee: "No"
+    outcomes_verified: false
+    placement: "No"
+    reports_outcomes: false
+    scholarships: "No"
+    topics:
+      - python
+      - algorithms
+      - object-oriented-programming
+    tuition: 199
+    tuition_units: EURO €
+tagline: Learn Cybersecurity, Data Science, UX/UI, Web Development, and more!
+twitter: clabsacademy
+website: https://codelabsacademy.com/
